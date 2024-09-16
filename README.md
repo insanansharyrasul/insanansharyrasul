@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1>
+  Why, Hello there! 👋
+</h1> 
+
+
+## About me
+I'm Insan Anshary Rasul, a Computer Science student at Institut Pertanian Bogor (IPB University). I'm currently learning about Competitive Programming and Mobile Apps Development.
+
+# Programming Language
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40 height=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 height=40/>&nbsp;
+          
+
+          
+          
+          
 
 <!--
 **insanansharyrasul/insanansharyrasul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
