@@ -4,13 +4,14 @@
 
 
 ## About me
-I'm Insan Anshary Rasul, a Computer Science student at Institut Pertanian Bogor (IPB University). I'm currently learning about Competitive Programming and Mobile Apps Development.
+I'm Insan Anshary Rasul, a Computer Science student at Institut Pertanian Bogor (IPB University). I'm currently learning about Competitive Programming, Mobile Apps Development, and Odoo Framework for ERP.
 
-## Programming Language
+## Programming Language and Framework
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=40 height=40/>&nbsp;
+<img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width=40 height=40/>&nbsp;
           
           
 
