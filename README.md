@@ -11,7 +11,7 @@ I'm Insan Anshary Rasul, a Computer Science student at Institut Pertanian Bogor 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 height=40/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=40 height=40/>&nbsp;
-<img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width=40 height=40/>&nbsp;
+<img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width=130 height=40/>&nbsp;
           
           
 
