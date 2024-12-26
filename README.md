@@ -14,7 +14,7 @@ I'm Insan Anshary Rasul, a Computer Science student at Institut Pertanian Bogor 
 <a href="https://www.odoo.com"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width=130 height=40/></a>&nbsp;
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insan.a.r.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insan-anshary-rasul) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insan.a.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insan-anshary-rasul) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=insanansharyrasul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
